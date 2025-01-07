@@ -1,2 +1,0 @@
-11,Akib,10,cse
-55,Akib,5,ggyd
